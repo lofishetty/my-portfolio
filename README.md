@@ -1,4 +1,4 @@
 # my-portfolio
-file:///C:/Users/prash/Downloads/My%20Portfolio.html
+http://127.0.0.1:5500/proj1/index.html
 
 
